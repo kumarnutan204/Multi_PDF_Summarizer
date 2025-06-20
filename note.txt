@@ -1,0 +1,2 @@
+#########.\virtenvv\Scripts\activate#############
+#activate virtenvv
